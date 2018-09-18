@@ -1,22 +1,22 @@
 {
-  "name": "ud892",
-  "version": "1.0.0",
-  "description": "Udacity Course on JavaScript Tools and Testing",
-  "main": "gulpfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/udacity/ud892.git"
-  },
-  "author": "Funmito Blessed - Clone from Udacity",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/udacity/ud892/issues"
-  },
-  "homepage": "https://github.com/udacity/ud892#readme",
-  "devDependencies": {
-    "gulp": "^3.9.1"
-  }
+    "name": "ud892",
+    "version": "1.0.0",
+    "description": "Udacity Course on JavaScript Tools and Testing",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ofunmito/ud892.git"
+    },
+    "author": "Funmito Blessed - Clone from Udacity",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ofunmito/ud892/issues"
+    },
+    "homepage": "https://github.com/ofunmito/ud892#readme",
+    "devDependencies": {
+        "gulp": "^3.9.1"
+    }
 }
